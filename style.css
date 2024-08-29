@@ -1,0 +1,61 @@
+:root{
+    --verde: #839791;
+    --marrone: #504136;
+}
+
+.nerko-one-regular {
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.divo{
+    border: #504136 20px double;
+    background-color: #839791;
+    height: 700px;
+    width: 00px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.bottoni{
+    background-color: #504136;
+    color: #839791;
+    border: black 3px solid;
+    height: 100px;
+    width: 100px;
+    font-size: 28px;
+    border-radius: 10px;
+    
+}
+
+.marrone{
+    background-color: #504136;
+}
+
+.crono{
+    font-size: 90px;
+}
+
+.fila{
+    width: 80%;
+}
+
+.stopwatch{
+    font-size: 150px;
+    color: #F4DBD8;
+}
+.entrati{
+    background-color:#3b3b3b;
+    color: #504136;
+}
+
+.premuti{
+    background-color: #333;
+    color: #504136;
+}
